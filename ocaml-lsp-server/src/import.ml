@@ -144,6 +144,7 @@ include struct
   module CompletionOptions = CompletionOptions
   module CompletionParams = CompletionParams
   module ConfigurationParams = ConfigurationParams
+  module CreateFile = CreateFile
   module Diagnostic = Diagnostic
   module DiagnosticRelatedInformation = DiagnosticRelatedInformation
   module DiagnosticSeverity = DiagnosticSeverity
